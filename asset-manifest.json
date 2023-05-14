@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robokaibigans/static/css/main.eb4cec6c.css",
+    "main.js": "/robokaibigans/static/js/main.e5951f5f.js",
+    "static/js/787.32032a02.chunk.js": "/robokaibigans/static/js/787.32032a02.chunk.js",
+    "static/media/Poppins-Regular.woff": "/robokaibigans/static/media/Poppins-Regular.aa27b6bdbf91d267ef8a.woff",
+    "index.html": "/robokaibigans/index.html",
+    "main.eb4cec6c.css.map": "/robokaibigans/static/css/main.eb4cec6c.css.map",
+    "main.e5951f5f.js.map": "/robokaibigans/static/js/main.e5951f5f.js.map",
+    "787.32032a02.chunk.js.map": "/robokaibigans/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4cec6c.css",
+    "static/js/main.e5951f5f.js"
+  ]
+}
